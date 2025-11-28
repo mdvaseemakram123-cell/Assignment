@@ -1,0 +1,26 @@
+For the 1st time need to configure github in our system
+git config --global user.name "user_name"
+git config --global user.email "email_id"
+git config --global color.ui auto
+
+
+mendetory commands
+git init
+git remote add origin (git hub a/c link)
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "initial commit"
+git push
+
+
+create a new branch
+git checkout -b "branch name"
+
+
+switch the branch
+git checkout "branch name"
