@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c36800f7-a635-46a8-b5dd-ae7c4fe42e45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_banking_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simple_banking_system.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="36MyW7MsQFwY31Kehf2yFIecUxi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +38,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Assignment3_Task1.executor": "Run",
     "Python.Assignment3_Task2.executor": "Run",
+    "Python.Assignment4_Task1.executor": "Run",
+    "Python.Assignment4_Task2.executor": "Run",
     "Python.Simple_banking_system.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -64,6 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1764830774571</updated>
       <workItem from="1764830778716" duration="1691000" />
+      <workItem from="1765020557995" duration="1108000" />
+      <workItem from="1765188552345" duration="3119000" />
     </task>
     <servers />
   </component>
@@ -72,7 +78,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Assignments$Assignment3_Task1.coverage" NAME="Assignment3_Task1 Coverage Results" MODIFIED="1764832023390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4_Task1_py$Assignment4_Task2.coverage" NAME="Assignment4_Task2 Coverage Results" MODIFIED="1765191615776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Assignments$Simple_banking_system.coverage" NAME="Simple_banking_system Coverage Results" MODIFIED="1764832441247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Assignments$Assignment3_Task2.coverage" NAME="Assignment3_Task2 Coverage Results" MODIFIED="1764832007489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4_Task1_py$Assignment4_Task1.coverage" NAME="Assignment4_Task1 Coverage Results" MODIFIED="1765188755829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
